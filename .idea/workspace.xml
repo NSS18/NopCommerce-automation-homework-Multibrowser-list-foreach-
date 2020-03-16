@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5faf0802-a611-4de9-bce4-69469121c1af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/WebTesting/BrowserSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebTesting/BrowserSelector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Resources/TestData/testconfig.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Resources/TestData/testconfig.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/Nopecommerce Automation With List and For each loop.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestData/testconfig.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestData/testconfig.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Resources/TestData/Nopcommarce automation test cases .xlsx" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

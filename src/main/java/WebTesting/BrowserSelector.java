@@ -16,7 +16,7 @@ public class BrowserSelector extends BasePage {
     public static LoadProp loadprop=new LoadProp();
     //Reading SauceLabs username
     public static final String USERNAME=loadprop.getProperty("SAUCE_USERNAME");
-    //Reading Saucelabs access key
+    //Reading SauceLabs access key
     public static final String ACCESS_KEY=loadprop.getProperty("SAUCE_ACCESS_KEY");
     //opening SauceLabs url--->Driver creation link
     public static final String URL="https://"+USERNAME+":"+ACCESS_KEY+"@ondemand.eu-central-1.saucelabs.com:443/wd/hub";
